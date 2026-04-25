@@ -200,7 +200,6 @@ $cred = Get-Credential -Message "Enter domain admin credentials"
 
 Detailed guides available in the `Documentation/` folder:
 
-- **[Intune Enrollment Guide](Documentation/Intune-Enrollment-Guide.md)** - Complete enrollment workflows
 - **[Autopilot Overview](Documentation/Autopilot-Overview.md)** - Concepts, setup, and best practices
 - **[Troubleshooting Guide](Documentation/Troubleshooting-Common-Issues.md)** - Common issues and solutions
 
